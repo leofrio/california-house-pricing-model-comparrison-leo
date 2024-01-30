@@ -1,0 +1,2 @@
+Best Parameters: {'sgdregressor__alpha': 0.01, 'sgdregressor__eta0': 0.1, 'sgdregressor__learning_rate': 'optimal', 'sgdregressor__loss': 'epsilon_insensitive', 'sgdregressor__max_iter': 100, 'sgdregressor__penalty': 'l1', 'sgdregressor__tol': 0.01}
+Mean Squared Error on Test Set: 0.5487361559195937
